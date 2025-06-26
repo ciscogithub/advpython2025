@@ -1,6 +1,6 @@
 [project]
 name = "advpython2025"
-version = "0.1.3"
+version = "0.1.5"
 description = ""
 authors = [
     {name = "Fedor",email = "not_valid_mail@gmail.com"}
